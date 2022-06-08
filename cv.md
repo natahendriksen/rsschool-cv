@@ -61,7 +61,6 @@ social work
 
 ### Languages
 - English - B1
-- German - B1
 - Polish  - C1
 - Russian - native
 
