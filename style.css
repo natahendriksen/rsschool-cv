@@ -72,12 +72,16 @@
   a {
     text-decoration: none;
     color: #048531;
-  
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
   }
   
   a:hover {
     text-decoration: none;
     color: rgb(184, 16, 172);
+    -webkit-text-shadow: 2px 2px 2px #000;
+    -moz-text-shadow: 2px 2px 2px #000;
+    text-shadow: 2px 2px 2px #000;
   }
   
   main {
